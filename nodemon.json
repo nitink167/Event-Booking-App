@@ -1,0 +1,7 @@
+{
+	"env": {
+		"MONGO_USER": "nitin",
+		"MONGO_PASSWORD": "16nitink7",
+		"MONGO_DB": "events_react_dev"
+	}
+}
